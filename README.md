@@ -4,6 +4,17 @@
 ![download (1)](https://github.com/user-attachments/assets/a36625be-df74-436c-a71b-505e44eb8c4b)
 
 
+
+
+
+
+
+
+
+
+
+
+
 # **This is a demonstration of various projects I have developed, featuring Object Tracking, Data Inference , Feature similarity analysis, and Machine Learning applications.**
 
 
@@ -21,9 +32,27 @@ https://github.com/user-attachments/assets/8ba88008-2e61-404d-ad56-7d4a7e1d738c
 
 
 
+
+
+
+
+
+
+
+
+
 # **This demo showcases our custom Edge Detection Algorithm, which preserves resolution and captures even the finest details with exceptional clarity...... compared with built in Canny Edge Detection of OpenCv**
 
 ![photo_2024-09-30_13-05-25](https://github.com/user-attachments/assets/964bd0f1-6bf7-44b9-bc67-907dd59077dd)
+
+
+
+
+
+
+
+
+
 
 
 
@@ -33,6 +62,14 @@ https://github.com/user-attachments/assets/8ba88008-2e61-404d-ad56-7d4a7e1d738c
 ![photo_2024-09-30_13-05-48](https://github.com/user-attachments/assets/ccd5703b-e46c-47b6-82eb-fc6471dc5527)
 
 https://github.com/user-attachments/assets/4e9b135c-546f-478e-a822-a2c1f7abf9af
+
+
+
+
+
+
+
+
 
 
 
