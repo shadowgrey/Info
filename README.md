@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/8ba88008-2e61-404d-ad56-7d4a7e1d738c
 
 
 
-# **This demo showcases our custom Edge Detection Algorithm, which preserves resolution and captures even the finest details with exceptional clarity. compared with built in Canny Edge Detection of OpenCv**
+# **This demo showcases our custom Edge Detection Algorithm, which preserves resolution and captures even the finest details with exceptional clarity...... compared with built in Canny Edge Detection of OpenCv**
 
 ![photo_2024-09-30_13-05-25](https://github.com/user-attachments/assets/964bd0f1-6bf7-44b9-bc67-907dd59077dd)
 
